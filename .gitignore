@@ -1,2 +1,5 @@
 # ignore .pyc files
 *.pyc
+
+# ignore RSS favorites save file
+8x8_rss_favorites.txt
